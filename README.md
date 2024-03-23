@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! I'm Dana AlSiddig 👋 
 
-<!--
-**danasidd/danasidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="785" alt="image" src="https://github.com/danasidd/danasidd/assets/113601804/04674761-126a-4f18-a5ca-7686e8ce4ee4">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+I'm a passionate Full-Stack Web Developer. With a love for crafting innovative solutions and a knack for problem-solving, I thrive in the dynamic world of technology. 
+
+## 🚀 Here's a glimpse into what I bring to the table:
+
+- 💻 Currently, I'm honing my skills as a Full Stack Web Developer, adept at both front-end and back-end technologies. Whether it's crafting seamless user interfaces with ReactJS or architecting robust server-side solutions, I'm always up for the challenge.
+- 🤖 Currently studying data science and artificial intelligence to dive deeper into the tech realm.
+- 🔧 Proficient in a wide range of technologies including HTML/CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Docker, Git, and Python.
+- 💡 Turning ideas into eye-catching designs, one pixel at a time.
+
+Let's connect and build something amazing together! 😊
